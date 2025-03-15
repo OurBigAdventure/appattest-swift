@@ -1,3 +1,9 @@
+# This is a fork, please use the original
+
+I forked this repo because my project is not ready for Swift 6.  This fork drops the requirement to Swift 5.10 so I can use it in my project.
+
+The original version of this project is [here](https://github.com/zunda-pixel/appattest-swift) I recommend you use that one because this one won't receive any updates beyond this message in the README.
+
 # AppAttest
 
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fzunda-pixel%2Fappattest-swift%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/zunda-pixel/appattest-swift)
